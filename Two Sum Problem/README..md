@@ -10,7 +10,7 @@ You may assume that each input would have exactly one solution, and you may not 
 
 ## Repository Contents
 
-- [**two_sum.py**](Two%20Sum%20Problem/two_sum.py): Python script containing the solution to the Two Sum problem.
+- [**twoSum.py**](Two%20Sum%20Problem/two_sum.py): Python script containing the solution to the Two Sum problem.
 - [**README.md**](Two%20Sum%20Problem/README.md): Detailed explanation of the problem and the provided solution.
 
 ## How to Use
