@@ -12,6 +12,8 @@ Feel free to explore the solutions and use them as a reference for your own lear
 
 The repository is organized according to the Striver SDE sheet.
 
+You can access the Striver SDE sheet [here](https://leetcode.com/list/eeudwo2i/)
+
 
 ## How to Use
 
