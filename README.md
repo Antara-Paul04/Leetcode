@@ -15,12 +15,6 @@ The repository is organized according to the Striver SDE sheet.
 You can access the Striver SDE sheet [here](https://leetcode.com/list/eeudwo2i/)
 
 
-## How to Use
-
-1. **Navigate to the problem folder of interest.**
-2. **Review the Python script for the solution.**
-3. **Read the accompanying README for an explanation.**
-
 Feel free to use these solutions as a learning resource. If you have improvements or alternative solutions, consider contributing to make this repository even more valuable.
 
 ## Contributing
